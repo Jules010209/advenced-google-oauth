@@ -1,0 +1,12 @@
+{
+    "application": {
+        "name": "Advenced Google OAuth",
+        "description": "It's a web application using nestjs and OAuth 2.0",
+        "port": 3000
+    },
+    "google": {
+        "client_id": "your client id",
+        "client_secret": "your client secret",
+        "created_date": "16/12/2022 13:11:39 GMT+1"
+    }
+}
